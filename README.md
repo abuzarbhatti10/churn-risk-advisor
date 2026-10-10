@@ -72,5 +72,3 @@ https://churn-risk-advisor-vbxmq6uvufhuw27njonzbr.streamlit.app/
 Week 1 = https://www.kaggle.com/code/abuzarbhatti068/week-1-customer-churn-eda
 
 Week 2 = https://www.kaggle.com/code/abuzarbhatti068/week-2-building-ml-models
-
-Weel 3 = https://lnkd.in/dwBG4K9P
