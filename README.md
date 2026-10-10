@@ -63,11 +63,10 @@ https://churn-risk-advisor-vbxmq6uvufhuw27njonzbr.streamlit.app/
 ## App Screenshots
 
 ### Single Customer Result
-C:\Users\Abuzar Bhatti\Desktop\churn-risk-advisor\screenshot-one-customer.png.jpg
+![Single Customer Result](./screenshot-one-customer.png.jpg)
 
 ### Batch Scoring Results
-C:\Users\Abuzar Bhatti\Desktop\churn-risk-advisor\screenshot-batch.png.jpg
-
+![Batch Scoring Results](./screenshot-batch.png.jpg)
 ## Earlier Project Work
 
 Week 1 = https://www.kaggle.com/code/abuzarbhatti068/week-1-customer-churn-eda
