@@ -63,10 +63,10 @@ https://churn-risk-advisor-vbxmq6uvufhuw27njonzbr.streamlit.app/
 ## App Screenshots
 
 ### Single Customer Result
-![Single customer result](./screenshot-one-customer.png)
+C:\Users\Abuzar Bhatti\Desktop\churn-risk-advisor\screenshot-one-customer.png.jpg
 
 ### Batch Scoring Results
-![Batch scoring results](./screenshot-batch.png)
+C:\Users\Abuzar Bhatti\Desktop\churn-risk-advisor\screenshot-batch.png.jpg
 
 ## Earlier Project Work
 
