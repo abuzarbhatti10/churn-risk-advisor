@@ -58,17 +58,16 @@ A machine-learning web app that estimates customer churn risk and helps a teleco
 
 ## Live App
 
- http://localhost:8501
-
+https://churn-risk-advisor-vbxmq6uvufhuw27njonzbr.streamlit.app/
 
 
 ## App Screenshots
 
 ### Single Customer Result
-![Single customer result](screenshot-one-customer.png)
+![Single customer result](./screenshot-one-customer.png)
 
 ### Batch Scoring Results
-![Batch scoring results](screenshot-batch.png)
+![Batch scoring results](./screenshot-batch.png)
 
 ## Earlier Project Work
 
